@@ -1,0 +1,1 @@
+Branches are different versions of a project so you can work on changes without messing with the main project
