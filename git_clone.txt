@@ -1,0 +1,1 @@
+Cloning copies a git repository
